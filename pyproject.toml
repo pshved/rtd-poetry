@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "rtd-poetry"
-version = "0.1.0"
+name = "rtd-poetry-tmp"
+version = "0.1.1"
 description = "Execute poetry install with dev dependencies on RTD"
-authors = ["Chris Hunt <chrahunt@gmail.com>"]
+authors = ["Chris Hunt <chrahunt@gmail.com>", "Paul Shved <pavel.shved@gmail.com>"]
 packages = [
     { include = "rtd_poetry.py" },
 ]
